@@ -37,21 +37,21 @@ The two switches are interconnected using two traveler wires. Changing the posit
 
 ### 1. Direct Connection
 
-<img width="1920" height="1080" alt="Direct_Circuit_1" src="https://github.com/user-attachments/assets/090e6ad2-892c-47df-a60f-d26991c98f26" />
+<img width="1130" height="513" alt="Direct_Circuit_1" src="https://github.com/user-attachments/assets/fb49908a-db6b-459c-adb7-caa8fd57029a" />
 
 ### 2. Cross Connection
 
-<img width="1920" height="1080" alt="Cross_Circuit_1" src="https://github.com/user-attachments/assets/be4ff375-f19e-422e-820d-f439d452ff9a" />
+<img width="1125" height="517" alt="Cross_Cicuit_1" src="https://github.com/user-attachments/assets/08d4fee7-004f-4d53-9dfb-0ad2b8cb35fa" />
 
 ## SIMULATION RESULTS
 
 ### 1. Direct Connection — Lamp Glowing
 
-<img width="1920" height="1080" alt="Direct_Circuit_2" src="https://github.com/user-attachments/assets/1cb8ade0-8ebc-47c5-bd78-cff29aba59f5" />
+<img width="1127" height="521" alt="Direct_Circuit_2" src="https://github.com/user-attachments/assets/51bc84e2-3a11-4e8d-b447-28f92e7fae31" />
 
 ### 2. Cross Connection — Lamp Glowing
 
-<img width="1920" height="1080" alt="Cross_Circuit_2" src="https://github.com/user-attachments/assets/734c4042-2650-4dc8-8fb3-8bcc958c6c7e" />
+<img width="1123" height="546" alt="Cross_Circuit_2" src="https://github.com/user-attachments/assets/9ba08e93-0a31-4ae6-b155-aa671b3a0941" />
 
 ## TABULATION
 
